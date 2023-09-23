@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1fE8MF7CTGMt62L7kFPaFKTxBJjB/XU8Kp4E6u8Xi3Bv52uxBMzrKUJxrhDAANFAGpxQ3tmA4rVFyXzS4QmAOA==",
+  "dgSpecHash": "G8Vm6RUUEjYQrPLxTkfdCYONIpQ+racgHA7oTico3E7ign7+n/sCvKfmp5Qlqb3PGqjwjIIxLv9GMpeDO4hQeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ksenya\\source\\repos\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva.csproj",
+  "projectFilePath": "C:\\Users\\Ksenya\\Documents\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ksenya\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
     "C:\\Users\\Ksenya\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",

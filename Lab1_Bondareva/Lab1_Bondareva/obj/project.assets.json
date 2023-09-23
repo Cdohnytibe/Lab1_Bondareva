@@ -122,11 +122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ksenya\\source\\repos\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva.csproj",
+      "projectUniqueName": "C:\\Users\\Ksenya\\Documents\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva.csproj",
       "projectName": "Lab1_Bondareva",
-      "projectPath": "C:\\Users\\Ksenya\\source\\repos\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva.csproj",
+      "projectPath": "C:\\Users\\Ksenya\\Documents\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva.csproj",
       "packagesPath": "C:\\Users\\Ksenya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ksenya\\source\\repos\\Lab1_Bondareva\\Lab1_Bondareva\\obj\\",
+      "outputPath": "C:\\Users\\Ksenya\\Documents\\Lab1_Bondareva\\Lab1_Bondareva\\Lab1_Bondareva\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ksenya\\AppData\\Roaming\\NuGet\\NuGet.Config",
