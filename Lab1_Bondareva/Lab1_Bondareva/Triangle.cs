@@ -11,6 +11,7 @@ namespace Lab1_Bondareva
     {
         public static (string, float[], float[], float[]) GoTriangle(string A, string B, string C)
         {
+            string type = "";
             try
             {
                 float a = float.Parse(A);
@@ -22,18 +23,18 @@ namespace Lab1_Bondareva
 
                 //}
                 float c = float.Parse(C);
-
+                
                 if (a <= 0 || b <= 0 || c <= 0)
                 {
                     float[] xy1 = new float[] { -2, -2 };
                     float[] xy2 = new float[] { -2, -2 };
                     float[] xy3 = new float[] { -2, -2 };
+                    type = "Не треугольник";
                     string msg = $" ({xy1[0]}; {xy1[1]}), ({xy2[0]}; {xy2[1]}), ({xy3[0]}; {xy3[1]})";
                     Log.Information(msg);
-                    return ("", xy1, xy2, xy3);
+                    return ("Не треугольник", xy1, xy2, xy3);
                 }
 
-                string type = "";
                 if (a + b >= c && a + c >= b && b + c >= a)
                 {
 
@@ -72,9 +73,9 @@ namespace Lab1_Bondareva
                 float[] xy1 = new float[] { -2, -2 };
                 float[] xy2 = new float[] { -2, -2 };
                 float[] xy3 = new float[] { -2, -2 };
-                string msg = $" ";
+                string msg = $"Не введены значения сторон";
                 Log.Error(ex, msg);
-                return ("", xy1, xy2, xy3);
+                return ("Не введены значения сторон", xy1, xy2, xy3);
             }
         }
     }
